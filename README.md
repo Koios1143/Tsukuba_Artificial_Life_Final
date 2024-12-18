@@ -6,7 +6,7 @@ We only modify the codes in Chapter3 `run_maze_ns_neat.py` and two files in envs
 
 | Baseline model | Modified model |
 | :------------: | :------------: |
-![](experiments\out\maze_ns_neat\hard_20241228_2118_original_c8\progress\Output2.gif) | ![](experiments\out\maze_ns_neat\hard_20241228_2150_simple_novelty_improvement_c8\progress\Output2.gif)
+![](experiments/out/maze_ns_neat/hard_20241228_2118_original_c8/progress/Output2.gif) | ![](experiments/out/maze_ns_neat/hard_20241228_2150_simple_novelty_improvement_c8/progress/Output2.gif)
 
 <!--
 ```
